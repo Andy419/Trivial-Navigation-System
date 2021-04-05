@@ -1,4 +1,6 @@
 # Trivial-Navigation-System
+![](https://github.com/Andy419/Trivial-Navigation-System/blob/master/image.png?raw=true)
+
 ```
 Included Files:
 	* README
